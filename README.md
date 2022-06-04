@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZaynAliShan
 - 👀 I’m interested in Software Development and Computer Sceince.
-- 🌱 I’m currently learning Bachelor of Computer Science.
+- 🌱 I’m currently doing Bachelor of Computer Science.
 - 💞️ I’m looking to collaborate on Software and Web Projects.
 - 📫 Reach me at my GitHub, Linkedin and Email Address.
 
