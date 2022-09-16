@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Computer Sceince.
 - 🌱 I’m currently doing Bachelor of Computer Science.
 - 💞️ I’m looking to collaborate on Software and Web Projects.
-- 📫 Reach me at my GitHub, Linkedin and Email Address.
+- 📫 Reach me at my GitHub, Linkedin or Email Address.
 
 <!---
 ZaynAliShan/ZaynAliShan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
