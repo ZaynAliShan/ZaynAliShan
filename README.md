@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ZaynAliShan
-- 👀 I’m interested in Software Development and Computer Sceince.
-- 🌱 I’m currently doing Bachelor of Computer Science.
-- 💞️ I’m looking to collaborate on Software and Web Projects.
-- 📫 Reach me at my GitHub, Linkedin or Email Address.
+- 🎮 Software Engineer at @Revolving Games
+- 🧑🏻‍🎓 Bachelor in Computer Science.
+- 🗣️ My Moto - Hustle with purpose, Think smart, and Never back down from a challenge.
+- 📫 Reach me at my GitHub, Linkedin, or Email Address.
 
 <!---
 ZaynAliShan/ZaynAliShan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
