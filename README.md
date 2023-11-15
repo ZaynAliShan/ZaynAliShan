@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZaynAliShan
-- 🎮 Software Engineer at @Revolving Games
+- 🎮 Software Engineer
 - 🧑🏻‍🎓 Bachelor in Computer Science.
 - 🗣️ My Moto - Hustle with purpose, Think smart, and Never back down from a challenge.
 - 📫 Reach me at my GitHub, Linkedin, or Email Address.
