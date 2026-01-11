@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ZaynAliShan<br>🎮 Software Engineer<br>🧑🏻‍🎓 Bachelor in Computer Science.<br>🗣️ My Moto - Hustle with purpose, Think smart, and Never back down from a challenge.<br>📫 Reach me at my GitHub, Linkedin, or Email Address.
+👋 Hi, I’m @ZaynAliShan<br>🎮 Senior Software Engineer<br>🧑🏻‍🎓 Bachelor in Computer Science.<br>🗣️ My Moto - Hustle with purpose, Think smart, and Never back down from a challenge.<br>📫 Reach me at my GitHub, Linkedin, or Email Address.
 
 
 ## 🌐 Socials:
