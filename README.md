@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ZaynAliShan&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ZaynAliShan&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZaynAliShan&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=ZaynAliShan&theme=swift&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=ZaynAliShan&icon=1&color=4)](https://visitcount.itsvg.in)
